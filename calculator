@@ -3,3 +3,5 @@ int a=40, b=39;
 Console.WriteLine("Sum is", a+b);
 int a=12, b=9;
 Console.WriteLine("Subtraction is", a-b);
+int a=13, b=19;
+Console.WriteLine("Multiplication is", a*b);
