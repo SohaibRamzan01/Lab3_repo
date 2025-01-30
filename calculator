@@ -5,3 +5,5 @@ int a=12, b=9;
 Console.WriteLine("Subtraction is", a-b);
 int a=13, b=19;
 Console.WriteLine("Multiplication is", a*b);
+int a=400, b=25;
+Console.WriteLine("Division is", a/b);
