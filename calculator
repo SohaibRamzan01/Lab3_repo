@@ -1,3 +1,5 @@
 Console.WriteLine("Name: Muhammad Sohaib Ramzan, Rollnumber: ST-24-004");
 int a=40, b=39;
 Console.WriteLine("Sum is", a+b);
+int a=12, b=9;
+Console.WriteLine("Subtraction is", a-b);
